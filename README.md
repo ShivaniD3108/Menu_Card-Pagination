@@ -1,0 +1,1 @@
+This project involves crafting HTML code to craft an visually appealing webpage that showcases a restaurant menu. It incorporates pagination features, enabling users to seamlessly navigate through numerous pages of menu items.
